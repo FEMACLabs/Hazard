@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "900444546236",
+    "firebase_url": "https://hazard-a7562.firebaseio.com",
+    "project_id": "hazard-a7562",
+    "storage_bucket": "hazard-a7562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900444546236:android:84a6427721e8a68e",
+        "android_client_info": {
+          "package_name": "com.example.rezeq.hazard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900444546236-33annc10dh5j5kgd36vsbmlfkdimktku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rezeq.hazard",
+            "certificate_hash": "577088e88a97c035e2d2394e74c60333c5c89b74"
+          }
+        },
+        {
+          "client_id": "900444546236-4slvvac4jh72qe47rasua2q9cm61s7o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEIXL0Imo04EWdW16pRQahP4RweEy5rmY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900444546236-4slvvac4jh72qe47rasua2q9cm61s7o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
